@@ -223,7 +223,7 @@ If you use this work, please cite:
 @software{composition_type_dissociation,
   author = {Danan, Hillary},
   title = {Composition Type Dissociation Test: Empirical Test of the APH},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/HillaryDanan/composition-type-dissociation}
 }
 ```
@@ -234,7 +234,7 @@ If you use this work, please cite:
 @article{danan2024aph,
   author = {Danan, Hillary},
   title = {Abstraction Is All You Need},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/HillaryDanan/abstraction-intelligence}
 }
 ```
