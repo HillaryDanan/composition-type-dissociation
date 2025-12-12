@@ -231,7 +231,7 @@ If you use this work, please cite:
 ### Related Work
 
 ```bibtex
-@article{danan2024aph,
+@article{danan2025aph,
   author = {Danan, Hillary},
   title = {Abstraction Is All You Need},
   year = {2025},
